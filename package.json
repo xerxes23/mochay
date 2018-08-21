@@ -1,0 +1,14 @@
+{
+  "name": "mocha-node",
+  "version": "1.0.0",
+  "description": "Simple testing example",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha **/*.test.js"
+  },
+  "author": "Joseph Mendoza",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
